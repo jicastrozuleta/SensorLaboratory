@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SensorLaboratory</string>
+    <string name="title_activity_main">Laboratory</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="elegir_sensor">Elegir Sensor</string>
+    <string name="textoCarviewInicial">
+        <![CDATA[
+        <html>
+            <head></head>
+            <body style="text-align:justify;color:black;background-color:transparent;">
+                SensorLaboratory es una aplicación que pretende
+                obtener información de los sensores disponibles
+                en moviles y validar su uso en
+                experimentos básicos de fisica.
+            </body>
+        </html>
+        ]]>
+    </string>
+    <string name="title_activity_laboratory">Laboratorio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="detener_prueba">Deteniendo la prueba actual...</string>
+    <string name="iniciar_prueba">GO!</string>
+
+    <string name="action_exit">Terminar</string>
+
+</resources>

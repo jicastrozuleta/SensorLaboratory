@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_guardar_prueba"
+            android:icon="@drawable/content_save_all"
+            android:title="Guardar Prueba"/>
+        <item
+            android:id="@+id/nav_nueva_prueba"
+            android:icon="@drawable/autorenew"
+            android:title="Nueva Prueba"/>
+    </group>
+
+    <item android:title="Comunicaciones">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Compartir"/>
+
+            <item
+                android:id="@+id/nav_usb"
+                android:icon="@drawable/usb"
+                android:title="USB"/>
+        </menu>
+    </item>
+
+</menu>
